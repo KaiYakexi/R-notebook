@@ -1,5 +1,5 @@
 # R-notebook
-[xeus-r](https://github.com/jupyter-xeus/xeus-r/tree/main) makes coding inside Jupyter notes possible!
+[xeus-r](https://github.com/jupyter-xeus/xeus-r/tree/main) makes R coding inside Jupyter notes possible!
 
 Only few steps to make it work:
 
